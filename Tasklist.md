@@ -9,20 +9,15 @@
    3. Develop a plugin system for the detection of various anomalies.
    4. Develop a plugin system to add custom flag relationship behavior.
    5. Dockerize everything.
-   6. Set up the database to store user data.
-   7. Develop the algorithm to determine the similarity score between two interactions.
-   8. Create a system to configure where the API endpoints are.
+   6. Develop the algorithm to determine the similarity score between two interactions.
 
 ## Mitchell
 
-1. Develop the web server in Node.js.
-   1. Write all the API functions the client needs.
-   2. Fetch data from the analysis server to send in APIs.
-   3. Implement an authentication system.
-2. Develop the web client in React.
-   1. Create data visualization reports.
-   2. Authentication support.
-3. Code detection of account sharing.
+1. Code detection of account sharing.
+2. Develop the core of the analysis server in Python.
+   1. Create a system to configure where the API endpoints are.
+   2. Set up the database to store user data.
+3. Test the application with real-world data and verify that it works.
 
 ## Brendan
 
