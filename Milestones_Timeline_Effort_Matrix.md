@@ -10,21 +10,21 @@
 
 ## Zak
 
-1. Use gRPC to create an interfacing library in Python to communicate between the analysis server and clients. *January 2019*
-2. Develop the core of the analysis server in Python. *January - March 2019*
+1. Use gRPC to create an interfacing library in Python to communicate between the analysis server and clients. **January 2019**
+2. Develop the core of the analysis server in Python. **January - March 2019**
 
 ## Mitchell
 
-1. Help develop the core of the analysis server in Python. *January 2019*
-2. Code detection of account sharing. *February 2019*
-3. Test the application with real-world data and verify that it works. *March 2019*
+1. Help develop the core of the analysis server in Python. **January 2019**
+2. Code detection of account sharing. **February 2019**
+3. Test the application with real-world data and verify that it works. **March 2019**
 
 ## Brendan
 
-1. Help develop the core of the analysis server in Python. *January 2019*
-2. Code detection of mass duplicate accounts. *February 2019*
-3. Code detection of ban evasion. *February 2019*
-4. Create a flag for text content. *March 2019*
+1. Help develop the core of the analysis server in Python. **January 2019**
+2. Code detection of mass duplicate accounts. **February 2019**
+3. Code detection of ban evasion. **February 2019**
+4. Create a flag for text content. **March 2019**
 
 # Effort Matrix
 
