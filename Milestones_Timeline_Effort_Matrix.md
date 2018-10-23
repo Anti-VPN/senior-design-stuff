@@ -31,7 +31,7 @@
 
 | Task | Estimated Working Time in Hours | Group Members |
 |-------|-------|-------|
-|Use gRPC to create an interfacing library in Python to communicate between the analysis server and clients | 15 Hours | Zak|
+|Use gRPC to create an interfacing library in Python to communicate between the analysis server and clients | 5 Hours | Zak|
 |Develop the core of the analysis server in Python|60 Hours|Zak, Mitchell, Brendan |
 |Code detection of account sharing.| 15 Hours | Mitchell |
 |Test the application with real-world data and verify that it works.| 10 Hours | Mitchell |
