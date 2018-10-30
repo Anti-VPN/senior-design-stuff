@@ -1,0 +1,39 @@
+Our project will have issues with security that we must address. Since it will be used to collect the data of many different users, 
+it is important that this data is secured from malicious actors. We need to ensure that data is sent through secured, 
+encrypted channels. We must be sure to avoid the usual vulnerabilities such as SQL injection. The data that we store 
+should not compromise users’ privacy. For instance, we wouldn’t want to store a user’s private chat messages unencrypted. 
+Also, there is a chance that when we test out this system, we’ll borrow some real world user data. It is important that we
+handle this data carefully, being sure to not compromise anyone’s privacy by looking at something we shouldn’t look at or 
+letting the data get leaked. This could be accomplished by asking the third party to omit password hashes from the data they 
+give us, or even just have them not give us read access at all. We could give them our system, and then they could report
+their results to us.
+
+Along with security concerns there are ethical concerns with our project. One of the major aspects of our project 
+is using real world data. If a malicious user was to get past our security they could potential use the data to
+find out information about a person's location, daily patterns, phone numbers, emails, or some other information 
+a person would want to keep private. This information could be used to hack a person's account or machine as well 
+as finding them in the real world. Since there is potential for harm to happen to a person we as the programmers 
+have an ethical responsibility to minimize the risk to the people whose data we use. This can be done by taking 
+security concerns into account during the programming of this application, and to be careful about what data we
+collect and to think about how each new piece of data could potential harm someone. Another measure that should
+be taken is to make sure a person knows what data is being collecting, and that they have the right to delete there 
+collected information at anytime. 
+
+Diversity and culture will affect our project significantly. Since real world data is being used in our project we 
+may encounter users from different countries, and regions. As we mine out patterns and unique behavior from the data
+we will encounter different languages, different slang, and different customs. For example if we have data from people 
+from New York and people from Los Angeles these users will have different slang and key words from the areas.
+These variances occur due to the distance between the two areas limiting there interactions and splitting there
+cultural similarities. These cultural divide only increases as we include different countries and different languages 
+in our real world data. 
+
+There are several legal guidelines that our project will have to follow. In the European Union, the General Data Protection
+Regulation requires disclosure of what data will be collected, as well as allowing users to request copies or deletion
+of the stored data. To satisfy these requirements, users will be required to agree to a license agreement that clearly 
+states what data will be collected, as well as information about data requests. Any data requests received will be 
+fulfilled by either an administrator or automated system. In addition, the Children’s Online Privacy Protection Act 
+requires certain rules for the collection of use of data of children under the age of 13. To comply with these regulations,
+any implementations of the software aimed at children will have details of what data will be collected from young users 
+listed in the license agreement. In addition, a parent’s verifiable consent will be required in order for users under 13
+to use the service. Once the data collected from children is no longer needed, such as after a set time period or when 
+an account is deleted, the unneeded data will be deleted.
