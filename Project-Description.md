@@ -9,7 +9,7 @@ Mitchell Haas - haasm3@mail.uc.edu
 Brendan Fisher - fisherb8@mail.uc.edu 
 
 ## Faculty advisor
-None at the moment 
+Raj Bhatnagar
 
 ## Background description
 The object of this project is to build profiles on people and detect rule breaking behavior such as avoiding bans or sharing accounts. These profiles will include their IP addresses, topics discussed online, unique words or phrases from user, known associates or friends, behavior, and unique actions or routines.
