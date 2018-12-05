@@ -36,4 +36,18 @@ visual graphs of the banned users, and options on how to handle suspected malici
 
 6.) [Slideshow](https://github.com/Identifeye/senior-design-assignments/blob/master/Senior%20Design%20Presentation.pdf)
 
-7.) 
+7.) Self-Assessment Essays 
+
+* [Zak](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/fahey.md)
+
+* [Brendan](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/FisherAssignment3.pdf)
+
+* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/haas_assignment_3.md)
+
+8.) Professional Biographies
+
+* [Zak](https://github.com/Identifeye/senior-design-assignments/blob/master/Biographies/fahey.md)
+
+* [Brendan](https://github.com/Identifeye/senior-design-assignments/blob/master/Biographies/BrendanFisherProfBio.md)
+
+* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/Biographies/mitchell_haas_bio.md)
