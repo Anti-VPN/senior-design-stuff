@@ -11,7 +11,7 @@ authorship identification.
 
 *Implement the service in an actual application* - it is important that our project is useful for applications, so we need to test it on one to verify that our system works in practice.
 
-# Timeline
+# Timeline and Task List
 
 ## Zak
 
