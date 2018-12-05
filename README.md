@@ -32,4 +32,8 @@ visual graphs of the banned users, and options on how to handle suspected malici
 
 4.) [Project Tasks and Timeline](https://github.com/Identifeye/senior-design-assignments/blob/master/Milestones_Timeline_Effort_Matrix.md)
 
-5.)
+5.) [ABET Constraint Essay](https://github.com/Identifeye/senior-design-assignments/blob/master/ABET_Constraint_Essay)
+
+6.) [Slideshow](https://github.com/Identifeye/senior-design-assignments/blob/master/Senior%20Design%20Presentation.pdf)
+
+7.) 
