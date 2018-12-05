@@ -1,5 +1,4 @@
 # Professional Biography for Mitchell Haas 
-I am a senior, **Computer Science** student who spent a lot of time thinking he was chemical engineering student. Luckily that was fixed after a few side courses in programming. Since then I have worked as a full stack web developer on applications for scheduling classes, and data reporting. Currently, I am **looking for a group to join** that is interested in project topics similar to the ones below. 
 ## Contact information
  - **Email** - haasm3@mail.uc.edu 
  - **Phone** - (859)-496-4214
