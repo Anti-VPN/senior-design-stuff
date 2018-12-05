@@ -51,3 +51,11 @@ visual graphs of the banned users, and options on how to handle suspected malici
 * [Brendan](https://github.com/Identifeye/senior-design-assignments/blob/master/Biographies/BrendanFisherProfBio.md)
 
 * [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/Biographies/mitchell_haas_bio.md)
+
+9.) Budget - No funds required.
+
+10.) Appendix - 
+
+* [Data Set on Amazon Commerce Reviews](https://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set)
+
+* Justification for 45 hours each is shown in the [effort matrix](https://github.com/Identifeye/senior-design-assignments/blob/master/Milestones_Timeline_Effort_Matrix.md)
