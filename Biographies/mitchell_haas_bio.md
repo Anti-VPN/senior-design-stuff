@@ -15,6 +15,7 @@
   - Javascript, HTML, CSS 
   - SQL
   - Java, C++ 
+  - MatLab
 ## Project Topics Sought
   - Machine Learning / Artificial Intelligence 
   - Data Mining 
