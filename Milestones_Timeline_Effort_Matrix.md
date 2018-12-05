@@ -49,3 +49,9 @@ authorship identification.
 | Code detection of ban evasion. | 10 Hours | Brendan| 
 | Create a flag for text content | 10 Hours | Brendan | 
 
+## Total
+* Zak - 55 hours 
+
+* Mitchell - 50 hours 
+
+* Brendan - 50 hours
