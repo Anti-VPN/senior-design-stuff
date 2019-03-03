@@ -1,37 +1,12 @@
+from difflib import SequenceMatcher
+
 """
 A Python program to demonstrate the adjacency
 list representation of the graph
 """
 
-
 # weights arreay by value
 weights = [1/7, 1/7, 1/7, 1/7, 1/7, 1/7, 1/7, 1/7]
-
-""" no longer in use 
-# data object for nodes.
-class Node:
-
-  # construct a fully defined node
-  def __init__(self, account_name, charcter_name, IP, UUID, IP_geolocation, is_banned, active_playtime ):
-    self.account_name = account_name
-    self.charcter_name = charcter_name
-    self.IP = IP
-    self.UUID = UUID # a unique id stored in a file on the clients computer
-    self.IP_geolocation = IP_geolocation
-    self.is_banned = is_banned
-    self.active_playtime = active_playtime
-
-  # print out a specific node
-  def print_node(self):
-      print(F"Account Name: {self.account_name}")
-      print(F"Charcter Name: {self.charcter_name}")
-      print(F"IP: {self.IP}")
-      print(F"UUID: {self.UUID}")
-      print(F"IP_geolocation: {self.IP_geolocation}")
-      print(F"is_banned: {self.is_banned}")
-      print(F"active_playtime: {self.active_playtime}\n")
-"""
-
 
 # A class to represent the adjacency list of the node
 class AdjNode:
@@ -39,8 +14,6 @@ class AdjNode:
         self.vertex = data
         self.weight = weight
         self.next = None
-
-
 
 # A class to represent a graph. A graph
 # is the list of the adjacency lists.
@@ -78,13 +51,24 @@ class Graph:
 
 # calculate the connected-ness of each node
 def calculate_weights(node1, node2):
-    w=0
-    # calculate weight - does not include play time or is banned
-    for i in range(0,5):
-        if node1[i] == node2[i]:
-            w+= weights[i]
+	w=0
+	# calculate weight - does not include play time or is banned
+	
+	# Account and Character name
+	for i in range(0, 2):
+		if node1[i]==node2[i]:
+			w+=weights[i]
+		else:
+			match=SequenceMatcher(None, node1[i], node2[i]).find_longest_match(0, len(node1[i]), 0, len(node2[i]))
+			if match.size >= 3:
+				w+=weights[i]*min(weights[i], weights[i]*match.size/10)
+	
+	# IP, UUID, Location
+	for i in range(2, 5):
+		if node1[i]==node2[i]:
+			w+=weights[i]
 
-    return w
+	return w
 
 # goes through and adds edges to adjancey list
 def add_edges(NodeArray, graph):
@@ -114,6 +98,5 @@ if __name__ == "__main__":
     V = len(NodeArray)
     graph = Graph(V)
     add_edges(NodeArray, graph)
-
 
     graph.print_graph()
