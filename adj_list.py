@@ -79,8 +79,8 @@ class Graph:
 # calculate the connected-ness of each node
 def calculate_weights(node1, node2):
     w=0
-    # calculate weight - does not include play time
-    for i in range(0,6):
+    # calculate weight - does not include play time or is banned
+    for i in range(0,5):
         if node1[i] == node2[i]:
             w+= weights[i]
 
@@ -94,7 +94,7 @@ def add_edges(NodeArray, graph):
             # get weight of each node with others
             w = calculate_weights(NodeArray[i], NodeArray[j])
 
-            if w > (2/7):
+            if w >= (2/7):
                 graph.add_edge(i,j,w)
 
 
@@ -106,10 +106,10 @@ if __name__ == "__main__":
     NodeArray = [["hello_gator", "Bob", "127.1.0.1", 56897, "US", True, 105],
         ["what_account", "Jason", "265.2.0.2", 63541, "Canada", False, 212],
         ["jello_pie", "Jason", "315.6.4.7", 88541, "Mexico", False, 105],
-        ["jason_565", "Bob", "127.1.0.1", 56897, "US", False, 2],
+        ["jason_565", "Rambo", "127.1.0.1", 11115, "US", False, 2],
         ["not_hello_gator", "Bob", "127.1.0.1", 56897, "US", False, 5],
         ["random", "Ryan", "666.3.2.1", 78912, "Mexico", False, 88],
-        ["jello_man", "Simba", "265.2.0.2", 63541, "Canada", False, 12]]
+        ["jello_man", "Simba", "111.5.6.0", 63541, "Canada", False, 12]]
 
     V = len(NodeArray)
     graph = Graph(V)
