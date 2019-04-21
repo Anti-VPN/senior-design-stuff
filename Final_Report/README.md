@@ -36,5 +36,5 @@ Our project consistent of back end programs and does not have a visual user inte
 ## Summary of Hours and Justification 
 
 ## Summary of Expensis 
-No funds required for this project we used free software for development, communication, and file sharing. 
+No funds were required for this project we used free software for development, communication, and file sharing. 
 
