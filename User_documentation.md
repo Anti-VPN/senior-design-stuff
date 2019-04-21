@@ -11,27 +11,26 @@ or sharing accounts. This is done by inputting a matrix of data with attributes 
 username, etc... Then the program compares IP's, usernames, and text comments of the input and outputs 
 a list of usernames that are suspected to belong to one user, and why. 
 
-## Input 
+## How to Use the Analysis Program 
+
+### Input 
 Input a matrix of data with attributes like IP, text comment, and username. 
 
 Example: 
 
-| Username        | IP           | Text Comment  |
-| ------------- |:-------------:| -----:|
-| bob11      | 127.0.01 | Hi my name is Bob  |
-| not_bob11    | 127.0.0.1     |   Hi my name is Bob. |
-| zebra_stripes101 | 70.127.168.235      |   Hello world |
+![Example Input Data](https://github.com/Identifeye/senior-design-assignments/blob/master/input_data.PNG "Example Input Data")
 
 
-## Output 
-Outputs a list of usernames that are suspected to belong to one user.
+
+### Output 
+Outputs a list of usernames that are suspected to belong to one user, and the confidence of the connections.
 
 Example: 
 
-| Username  A    | Username B          | Reason  |
-| ------------- |:-------------:| -----:|
-| bob11      | not_bob11 | Matching IP, Matching Text Comment  |
+![Example Output Data](https://github.com/Identifeye/senior-design-assignments/blob/master/Output_anlysis_program.PNG "Example Output Data")
 
+
+### Link to the Code 
 
 
 ## Using the Results 
