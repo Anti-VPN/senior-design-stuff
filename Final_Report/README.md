@@ -18,3 +18,20 @@ Our project consistent of back end programs and does not have a visual user inte
 ## Final Expo Poster 
 [Expo Poster](https://github.com/Identifeye/senior-design-assignments/blob/master/Poster_identifeye.pdf)
 
+## Assessments
+####  Initial Self-Assessments 
+* [Zak](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/fahey.md)
+
+* [Brendan](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/FisherAssignment3.pdf)
+
+* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/haas_assignment_3.md)
+
+#### Final Self-Assessments
+* 
+
+* 
+
+* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/public_self_assessment_haas%20.pdf)
+
+## 
+
