@@ -14,8 +14,7 @@ a list of usernames that are suspected to belong to one user, and why.
 ## How to Use the Analysis Program 
 
 ### Input 
-Input a matrix of data with attributes like IP, text comment, and username. 
-
+Input a matrix of data with the attributes ID, Account Name, Character Name, IP, UUID, IP Geolocation, Is Banned, and Activity Time.
 Example: 
 
 ![Example Input Data](https://github.com/Identifeye/senior-design-assignments/blob/master/input_data.PNG "Example Input Data")
@@ -30,13 +29,14 @@ Example:
 ![Example Output Data](https://github.com/Identifeye/senior-design-assignments/blob/master/Output_anlysis_program.PNG "Example Output Data")
 
 
-### Link to the Code 
+### Running the Code 
+First download the code and integrate it into your project. Then update the data you would like analyzed and run the program. 
 
+[Analysis Program](https://github.com/Identifeye/senior-design-assignments/blob/master/anlaysis.py)
 
-## Using the Results 
+### Using the Results 
 
-Due to Authorship Identification being an emerging field these results are meant to be 
-used at the users discretion.
+Once you have obtained the results a staff member can set which confidence threshold, they would like to review at, and the take appropriate action to accounts that are confidently run by the person.
 
 
 
