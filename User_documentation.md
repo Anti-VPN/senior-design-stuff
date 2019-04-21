@@ -40,10 +40,10 @@ Once you have obtained the results a staff member can set which confidence thres
 
 ### Frequently Asked Questions 
 
-* What is the UUID field?   This is the unique ID for a user set by the company to identify user's in their own system. 
+* *What is the UUID field?*   This is the unique ID for a user set by the company to identify user's in their own system. 
 
-* What is a good confidence threshold to set the analysis program to? By default, we have it set to 2/7th or 28% confidence the user are the same. We have found that this percentage weeds out the unrelated accounts from being flagged as matches while still maintaining a low enough threshold to catch users who are trying to avoid being found out. 
+* *What is a good confidence threshold to set the analysis program to?* By default, we have it set to 2/7th or 28% confidence the user are the same. We have found that this percentage weeds out the unrelated accounts from being flagged as matches while still maintaining a low enough threshold to catch users who are trying to avoid being found out. 
 
-* Can I give different weight to matching attributes? Yes, the weights are conveniently located at the top of the program and can be changed to give more importance to IP address, character names, or whichever field you find most important to your analysis.
+* *Can I give different weight to matching attributes?* Yes, the weights are conveniently located at the top of the program and can be changed to give more importance to IP address, character names, or whichever field you find most important to your analysis.
 
 
