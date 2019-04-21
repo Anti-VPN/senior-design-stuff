@@ -33,5 +33,8 @@ Our project consistent of back end programs and does not have a visual user inte
 
 * [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/public_self_assessment_haas%20.pdf)
 
-## 
+## Summary of Hours and Justification 
+
+## Summary of Expensis 
+No funds required for this project we used free software for development, communication, and file sharing. 
 
