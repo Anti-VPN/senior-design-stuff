@@ -7,7 +7,14 @@ Our project, Identifeye, has three main components the anonymizer, the interfaci
 Our project consistent of back end programs and does not have a visual user interface. The backend interface will be covered more in the user manual section.  
 
 ## Tests Plan and Results 
-[Test Plan](https://github.com/Identifeye/senior-design-assignments/blob/master/Final_Report/Test%20Plan.pdf)
+[Test Plan](https://github.com/Identifeye/senior-design-assignments/blob/master/Test%20Plan.pdf)
 
 ## User Manual 
 [User Manual](https://github.com/Identifeye/senior-design-assignments/blob/master/User_documentation.md)
+
+## Spring Final PPT Presentation 
+[Spring Final Presentation](https://github.com/Identifeye/senior-design-assignments/blob/master/Spring_final_Presentation.pdf)
+
+## Final Expo Poster 
+[Expo Poster](https://github.com/Identifeye/senior-design-assignments/blob/master/Poster_identifeye.pdf)
+
