@@ -7,7 +7,7 @@ Team Member: Mitchell Haas
 |------|------|
 |Finding a cleaned up data set and researching text anlysis|15 hours|
 |Finding and meeting with potential advisors|5 hours|
-|Meeting with group and creating an actionable plan|10 hours|
+|Meeting with the group and creating an actionable plan|10 hours|
 |A variety of documentation throughout the semester such as the slideshow, design diagram, and other essays|15 hours|
 |Working on the Fall final report|10 hours|
 |Learning Python for the project|20 hours|
