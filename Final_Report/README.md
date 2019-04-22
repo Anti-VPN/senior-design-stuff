@@ -38,7 +38,7 @@ Our project consistent of back end programs and does not have a visual user inte
 
 *
 
-* [Mitchell](https://github.com/Identifeye/senior-design-assignments/edit/master/effort_matrix_haas.md)
+* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/effort_matrix_haas.md)
 
 ## Summary of Expenses 
 No funds were required for this project we used free software for development, communication, and file sharing. 
