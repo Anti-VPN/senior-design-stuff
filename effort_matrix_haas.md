@@ -10,8 +10,9 @@ Team Member: Mitchell Haas
 |Meeting with group and creating an actionable plan|10 hours|
 |A variety of documentation throughout the semester such as the slideshow, design diagram, and other essays|15 hours|
 |Working on the Fall final report|10 hours|
+|Learning Python for the project|20 hours|
 
-Fall Total: 55 Hours
+Fall Total: 75 Hours
 
 ## Spring 2019
 |Task|Hours|
@@ -27,7 +28,7 @@ Fall Total: 55 Hours
 
 Spring Total: 83 hours 
 
-Overall Hours: 138 
+**Overall Hours: 158** 
 
 ## Justification 
- 
+Throughout these past two semesters I worked on a variety of documentation, technical research, and programming. Some of the highlights in documentation was working on a good portion of the final reports for both last and this semester. As well, as working on a good portion of the senior design poster. As for technical research I researched text analysis methods and data sets to train with. Although we scrapped this as we found out later that we would not be able to get the text comments with the real-world data set we wanted to us. As well as learning Python, which was a new programming language to me this semester, for the project. Also, I researched and implemented a graphical data structure for the analysis program. As well as researching and programming a large portion of the analysis program. In addition to these technical activities there where are variety of group and advisor planning and implementation meetings that I was involved in. Overall, I learned a lot working on this project and had fun being part of planning and implementing it. 
