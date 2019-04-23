@@ -7,38 +7,38 @@ Our project, Identifeye, has three main components the anonymizer, the interfaci
 Our project consistent of back end programs and does not have a visual user interface. The backend interface will be covered more in the user manual section.  
 
 ## Tests Plan and Results 
-[Test Plan](https://github.com/Identifeye/senior-design-assignments/blob/master/Test%20Plan.pdf)
+[Test Plan](../Test%20Plan.pdf)
 
 ## User Manual 
-[User Manual](https://github.com/Identifeye/senior-design-assignments/blob/master/User_documentation.md)
+[User Manual](../User_documentation.md)
 
 ## Spring Final PPT Presentation 
-[Spring Final Presentation](https://github.com/Identifeye/senior-design-assignments/blob/master/Spring_final_Presentation.pdf)
+[Spring Final Presentation](../Spring_final_Presentation.pdf)
 
 ## Final Expo Poster 
-[Expo Poster](https://github.com/Identifeye/senior-design-assignments/blob/master/Poster_identifeye.pdf)
+[Expo Poster](../Poster_identifeye.pdf)
 
 ## Assessments
 ####  Initial Self-Assessments 
-* [Zak](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/fahey.md)
+* [Zak](../Assignment%203/fahey.md)
 
-* [Brendan](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/FisherAssignment3.pdf)
+* [Brendan](../Assignment%203/FisherAssignment3.pdf)
 
-* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/Assignment%203/haas_assignment_3.md)
+* [Mitchell](../Assignment%203/haas_assignment_3.md)
 
 #### Final Self-Assessments
-* 
+* [Zak](../self_assessment_fahey.md)
 
 * 
 
-* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/public_self_assessment_haas%20.pdf)
+* [Mitchell](../public_self_assessment_haas%20.pdf)
 
 ## Summary of Hours and Justification 
 *  
 
 *
 
-* [Mitchell](https://github.com/Identifeye/senior-design-assignments/blob/master/effort_matrix_haas.md)
+* [Mitchell](../effort_matrix_haas.md)
 
 ## Summary of Expenses 
 No funds were required for this project we used free software for development, communication, and file sharing. 
