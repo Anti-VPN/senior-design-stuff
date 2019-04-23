@@ -31,7 +31,7 @@ Our project consistent of back end programs and does not have a visual user inte
 
 * 
 
-* [Mitchell](../public_self_assessment_haas%20.pdf)
+* [Mitchell](../self_assessment%20_haas.pdf)
 
 ## Summary of Hours and Justification 
 *  
