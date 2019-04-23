@@ -27,18 +27,18 @@ Our project consistent of back end programs and does not have a visual user inte
 * [Mitchell](../Assignment%203/haas_assignment_3.md)
 
 #### Final Self-Assessments
-* [Zak](/self_assessment_fahey.md)
+* [Zak](self_assessment_fahey.md)
 
 * 
 
-* [Mitchell](/self_assessment%20_haas.pdf)
+* [Mitchell](self_assessment%20_haas.pdf)
 
 ## Summary of Hours and Justification 
-* [Zak](/effort_matrix_fahey.md)
+* [Zak](effort_matrix_fahey.md)
 
 *
 
-* [Mitchell](/effort_matrix_haas.md)
+* [Mitchell](effort_matrix_haas.md)
 
 ## Summary of Expenses 
 No funds were required for this project we used free software for development, communication, and file sharing. 
