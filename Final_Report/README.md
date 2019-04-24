@@ -29,14 +29,10 @@ Our project consistent of back end programs and does not have a visual user inte
 #### Final Self-Assessments
 * [Zak](self_assessment_fahey.md)
 
-* 
-
 * [Mitchell](self_assessment_haas.pdf)
 
 ## Summary of Hours and Justification 
 * [Zak](effort_matrix_fahey.md)
-
-*
 
 * [Mitchell](effort_matrix_haas.md)
 
